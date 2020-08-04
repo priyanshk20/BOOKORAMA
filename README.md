@@ -1,5 +1,5 @@
 
-This Repository contains solutions to some CSS Grids , CSS Flexbox and Javascript challenges.
+This Repository contains solutions to webdev challenges.
 
 ..
 
